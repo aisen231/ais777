@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ais777</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="button_login">Войти</string>
+    <string name="link_register">Регистрация</string>
+    <string name="hint_confirm_password">Подтвердите пароль</string>
+    <string name="button_register">Зарегистрироваться</string>
+</resources>

@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# IDE
+.idea/
+*.iml
+
+# Android
+local.properties
+*.apk
+*.keystore
+
+# Java/Kotlin
+*.class
+*.jar
+
+# macOS/Linux
+.DS_Store
